@@ -1,6 +1,6 @@
 {
   "name": "@goldenshun/lerna-test-alpha",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The alpha package",
   "main": "index.js",
   "scripts": {
