@@ -1,0 +1,6 @@
+{
+  "name": "app",
+  "alias": "app",
+  "type": "static",
+  "public": true,
+}
