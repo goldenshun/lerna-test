@@ -1,6 +1,9 @@
 {
   "name": "@goldenshun/lerna-test-beta",
   "version": "1.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "The beta package",
   "main": "index.js",
   "scripts": {
@@ -13,5 +16,6 @@
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "7.1.2"
-  }
+  },
+  "gitHead": "1e0eb8d747de55fa1c1512867d6b9d7539a150f3"
 }
