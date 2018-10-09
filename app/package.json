@@ -18,6 +18,8 @@
   "license": "MIT",
   "homepage": "https://github.com/goldenshun/app#readme",
   "dependencies": {
+    "@goldenshun/lerna-test-alpha": "^1.0.0",
+    "@goldenshun/lerna-test-beta": "^1.0.0",
     "next": "7.0.1",
     "react": "16.5.2",
     "react-dom": "16.5.2"
