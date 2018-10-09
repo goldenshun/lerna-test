@@ -1,6 +1,6 @@
 {
   "name": "@goldenshun/app",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "An app for testing lerna packages.",
   "private": true,
   "main": "index.js",
@@ -19,7 +19,7 @@
   "homepage": "https://github.com/goldenshun/app#readme",
   "dependencies": {
     "@goldenshun/lerna-test-alpha": "^1.0.2",
-    "@goldenshun/lerna-test-beta": "^1.0.3",
+    "@goldenshun/lerna-test-beta": "^1.0.4",
     "next": "7.0.1",
     "react": "16.5.2",
     "react-dom": "16.5.2"

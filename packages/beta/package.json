@@ -1,6 +1,6 @@
 {
   "name": "@goldenshun/lerna-test-beta",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publishConfig": {
     "access": "public"
   },
@@ -15,7 +15,7 @@
   "author": "Sean Connolly",
   "license": "MIT",
   "dependencies": {
-    "@goldenshun/lerna-test-charlie": "^1.0.0"
+    "@goldenshun/lerna-test-charlie": "^1.0.1"
   },
   "devDependencies": {
     "@babel/cli": "7.1.2"
