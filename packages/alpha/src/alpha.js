@@ -1,5 +1,5 @@
 const alpha = () => {
-  return 'alpha';
+  return 'alpha two';
 }
 
 export default alpha;
