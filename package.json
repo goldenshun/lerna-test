@@ -6,6 +6,8 @@
     "publish": "lerna publish"
   },
   "devDependencies": {
+    "@babel/core": "7.1.2",
+    "@babel/preset-env": "7.1.0",
     "lerna": "^3.4.1"
   }
 }
