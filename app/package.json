@@ -6,6 +6,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "next",
+    "dev:packages": "next & cd .. && npm run dev:packages",
     "build": "next build",
     "start": "next start",
     "lint": "eslint --ext .js ."

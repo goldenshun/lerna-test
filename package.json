@@ -3,6 +3,7 @@
   "private": true,
   "scripts": {
     "bootstrap": "lerna bootstrap --hoist",
+    "dev:packages": "lerna run dev --parallel",
     "publish": "lerna publish"
   },
   "devDependencies": {
