@@ -1,7 +1,6 @@
 import alpha from '@goldenshun/lerna-test-alpha';
-// import beta from '@goldenshun/lerna-test-beta';
+import beta from '@goldenshun/lerna-test-beta';
 
-console.log('alpha', alpha);
 const Index = () => (
   <>
     <div>
@@ -10,7 +9,7 @@ const Index = () => (
     </div>
     <div>
       Beta:
-      {/* {beta()} */}
+      {beta()}
     </div>
   </>
 );
