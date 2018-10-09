@@ -1,5 +1,7 @@
+import charlie from '@goldenshun/lerna-test-charlie';
+
 const beta = () => {
-  return 'beta 2';
+  return `beta ${charlie()}`;
 }
 
 export default beta;

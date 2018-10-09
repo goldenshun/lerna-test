@@ -1,10 +1,10 @@
 {
-  "name": "@goldenshun/lerna-test-beta",
-  "version": "1.0.3",
+  "name": "@goldenshun/lerna-test-charlie",
+  "version": "1.0.0",
   "publishConfig": {
     "access": "public"
   },
-  "description": "The beta package",
+  "description": "The charlie package",
   "main": "index.js",
   "scripts": {
     "build": "NODE_ENV=production babel src -d dist",
@@ -14,9 +14,6 @@
   },
   "author": "Sean Connolly",
   "license": "MIT",
-  "dependencies": {
-    "@goldenshun/lerna-test-charlie": "^1.0.0"
-  },
   "devDependencies": {
     "@babel/cli": "7.1.2"
   },
