@@ -10,7 +10,7 @@
     "build": "NODE_ENV=production babel src -d dist",
     "build:dev": "babel src -d dist  --source-maps inline",
     "dev": "npm run build:dev -- -w",
-    "prepublishOnly": "if test \"$PUBLISH_ENABLED\" != \"true\" ; then exit 1 ; fi",
+    "doit": "../../bin/prepublish-check.sh",
     "prepare": "npm run build"
   },
   "author": "Sean Connolly",
